@@ -1,0 +1,20 @@
+https://chromewebstore.google.com/detail/oaknkllfdceggjpbonhiegoaifjdkfjd?utm_source=item-share-cbhttps://chromewebstore.google.com/detail/aijdcdkgjhpcmfhdmnpjkgooeofchjnn?utm_source=item-share-cbhttp://PROJECT_URL_HERE_OR_DELETE_THIS_LINE1>------ Build started: Project: AppLogger, Configuration: Release Any CPU ------
+1>AppLogger -> d:\proj\AppLogger\AppLogger\bin\Release\net6.0\AppLogger.dll
+1>Successfully created package 'd:\proj\AppLogger\AppLogger\bin\Release\AppLogger.1.0.0.nupkg'.
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Your username</authors>
+    <owners>Your username</owners>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package description</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+</package>Ngo9BigBOggjGyl/Vkd+XU9FcVRDXHxLeEx0RWFcb19xflZAalhQVAciSV9jS3tSdkdkWH5adXBdRmFfUE91Xg==
